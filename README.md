@@ -1,22 +1,15 @@
-### Pablo Banzo Prida
+# Pablo Banzo Prida
 
-<br>
+Software engineer building AI agents and the platforms they run on.
 
-[![pridapablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pridapablo&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+- 🚚 **Now:** Founding Engineer at [Delphi Logistics](https://godelphi.ai), building AI agents for logistics.
+- 🎙️ **Before:** At Tangering AI, I built the MCP tool integrations used by live voice agents, co-owned the Supabase/Postgres database layer, and was one of the top contributors to the voice-agent runtime, on a platform that handled 3M+ calls.
+- ⚖️ **Earlier:** Co-founded [Reli](https://www.linkedin.com/company/reliai), an AI legal research platform built on 100,000+ Mexican laws and regulations.
+- 🎓 B.S. in Computer Science and Technology, Tecnológico de Monterrey (Summa Cum Laude).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pridapablo&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+**Stack:** Python · TypeScript · PostgreSQL · LLM agents · MCP · AWS
 
-<!--
-**pridapablo/pridapablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[banzo.dev](https://banzo.dev) · [LinkedIn](https://www.linkedin.com/in/pridapablo/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Pablo's GitHub stats](./profile/stats.svg)
+![Top languages](./profile/top-langs.svg)
