@@ -14,3 +14,9 @@ Software engineer building AI agents and the platforms they run on.
 
 ![Pablo's GitHub stats](./profile/stats.svg)
 ![Top languages](./profile/top-langs.svg)
+
+*Most of my work lives in private company repos, so the cards above show only part of it. At Tangering AI (Sep 2025 – Sep 2026):*
+
+| PRs authored | PRs merged | Teammates' PRs reviewed |
+|---|---|---|
+| 1,072 | 904 | 981 |
